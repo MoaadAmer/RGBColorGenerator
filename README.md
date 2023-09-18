@@ -1,0 +1,2 @@
+# RandomColors
+Beginner JS project
